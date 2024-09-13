@@ -30,7 +30,7 @@ As for gradle:
 	}
 
 	dependencies {
-	        implementation 'com.github.Dqmino:EntityMoveEvent:Tag'
+	        implementation 'com.github.Dqmino:EntityMoveEvent:master-SNAPSHOT'
 	}
 ```
 
